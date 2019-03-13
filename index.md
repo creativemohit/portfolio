@@ -14,7 +14,7 @@
         <div class="main_header">
           <div class="container">
             <nav class="navbar navbar-expand-md">
-              <a class="navbar-brand" href="#"><img src="images/Logo.png" class="logo"></a>
+              <a class="navbar-brand" href="#"><img src="Althraa.png" class="logo"></a>
               <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
                 <span class="navbar-toggler-icon"></span>
                 <span class="navbar-toggler-icon"></span>
